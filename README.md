@@ -1,5 +1,7 @@
-•	main_menu –an executable file that will output the compared excel program 
-•	main_menu_gui – functionally is the same as the main_menu file above, however it has a simple GUI (graphical user interface) and is easier and faster to use
+OVERVIEW OF FILES 
+•	main_menu_gui – calls the program to initialize the gui window and run the program
+• compare_toyota_combined_gui.py - functions and logic for handling TO companies
+• compare_gm_combined_gui.py - functions and logic for handling GM companies
 •	GM Test Files – contains a status inquiry and 13 week forecast file to test the GM program 
 •	TO Test Files - contains a status inquiry and 13 week forecast file to test the TO program 
 
